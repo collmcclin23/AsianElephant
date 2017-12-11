@@ -1,0 +1,94 @@
+/*
+* Colleen McClintock
+* November 7, 2017
+* October Birthdays
+*/
+
+
+/* The universal selector */
+
+* { margin:0
+	padding:0}
+
+body { font-family: Arial, Helvectica, sans-serif;
+	background-color: mistyrose;
+	width: 950px;
+	margin: auto;}
+
+.topimg {	float: left;
+	height: 200px;
+	width: 340px; 
+	border: 1px dashed black;				/* all four sides */
+	padding: 10px;
+	margin: .0em 1em .5em .5em;
+}
+
+h1{font-size: 200%;
+text-align: center;
+font-family: Arial, Helvectica, sans-serif;
+font-weight: bold;
+color: gray;
+margin: 12px 0;
+}
+/* attributes of how I made h1 how it is*/
+
+header { border-bottom: 2px solid black;
+margin:20px;
+padding:10px
+color:black;}
+
+h2{font-size: 200%;
+text-align: left;
+font-family: Arial, Helvectica, sans-serif;
+color: gray;
+margin: 12px 0;
+}
+/* attributes of how I made h2 how it is*/
+
+h3{font-size: 200%;
+text-align: left;
+font-family: Arial, Helvectica, sans-serif;
+color: gray;
+margin: 12px 0;
+}
+/* attributes of how I made h3 how it is*/
+
+.secimg {	float: right;
+	height: 180px;
+	width: 320px; 				/* all four sides */
+	padding: 10px;
+	margin: .0em 1em .5em .5em;
+}
+
+h4{font-size: 200%;
+text-align: left;
+font-family: Arial, Helvectica, sans-serif;
+color: gray;
+margin: 12px 0;
+}
+/* attributes of how I made h4 how it is*/
+
+h5{font-size: 200%;
+text-align: left;
+font-family: Arial, Helvectica, sans-serif;
+color: gray;
+margin: 12px 0;
+}
+/* attributes of how I made h5 how it is*/
+
+.thrimg {	height: 100px;
+	width: 140px;				/* all four sides */
+	padding: 10px;
+	margin: .0em 1em .5em .5em;
+}
+
+footer {
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+}
+h6{font-size: 100%;
+text-align: left;
+font-family: Arial, Helvectica, sans-serif;
+color: gray;
+margin: 12px 0;
+}
